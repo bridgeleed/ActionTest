@@ -20,7 +20,7 @@
 					<h1>
 						添加用户信息:
 					</h1>
-					<form action="add" method="post">
+					<form action="add.go" method="post">
 						<table cellpadding="0" cellspacing="0" border="0"
 							class="form_table">
 							<tr>

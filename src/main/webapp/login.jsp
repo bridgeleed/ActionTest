@@ -20,7 +20,7 @@
 					<h1>
 						登陆
 					</h1>
-					<form action="login" method="post">
+					<form action="login.go" method="post">
 						<table cellpadding="0" cellspacing="0" border="0"
 							class="form_table">
 							<tr>

@@ -60,7 +60,8 @@
 								<%=u.getEmail() %>
 							</td>
 							<td>
-								<a href="del?id=<%=u.getId()%>" onclick="return confirm('确定删除<%=u.getUsername()%>吗?')">删除</a>&nbsp;
+							
+								<a href="del.go?id=<%=u.getId()%>" onclick="return confirm('确定删除<%=u.getUsername()%>吗?')">删除</a>&nbsp;
 							</td>
 						</tr>
 						<% 
